@@ -1,1 +1,1 @@
-# bd-info-241
+# Equipe 6 - Mesorregião dos Sertões Cearenses
