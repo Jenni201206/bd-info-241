@@ -1,5 +1,5 @@
 # Atividade-03
-# Equipe 6 - Meso 4: Mesorregião dos Sertões Cearenses.
+# Equipe 6 - Meso 4 (Mesorregião dos Sertões Cearenses).
 ### Membros:
 - Jennifer Mariano
 - Leandro Cândido
